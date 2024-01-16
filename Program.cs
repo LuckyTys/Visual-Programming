@@ -17,3 +17,7 @@ Console.WriteLine("Hello " + myname);
 string myname1 = " Tuyishime";
 string myname2 = " Lucky";
 Console.WriteLine("My name is" +  myname1 +  myname2);
+
+Console.WriteLine("Hello Wilo");
+string input = Console.ReadLine();
+Console.WriteLine("You Entered" + input);
