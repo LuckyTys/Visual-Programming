@@ -13,3 +13,7 @@ Console.WriteLine("This is the Third line of the text");
 
 string myname = "Lucky";
 Console.WriteLine("Hello " + myname);
+
+string myname1 = " Tuyishime";
+string myname2 = " Lucky";
+Console.WriteLine("My name is" +  myname1 +  myname2);
