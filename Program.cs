@@ -20,7 +20,12 @@ string myname1 = " Tuyishime";
 string myname2 = " Lucky";
 Console.WriteLine("My name is" +  myname1 +  myname2);
 
-//Adding  line to read user input with Console.ReadLine() and then print it out
-Console.WriteLine("Hello Wilo");
-string input = Console.ReadLine();
-Console.WriteLine("You Entered" + input);
+
+
+//Printing number
+int number =  1;
+Console.WriteLine("My Favourite number is"+ number);
+
+DateTime currentDate= DateTime.Now;
+Console.WriteLine("Current Date:" + currentDate.ToShortDateString());
+Console.ReadLine();
