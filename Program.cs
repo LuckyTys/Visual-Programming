@@ -10,3 +10,6 @@ Console.WriteLine("The Result of the arthimetic operation is: " + result);
 
 Console.WriteLine("This is the second line of text");
 Console.WriteLine("This is the Third line of the text");
+
+string myname = "Lucky";
+Console.WriteLine("Hello " + myname);
